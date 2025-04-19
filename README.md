@@ -20,3 +20,8 @@
 - **Tailwind CSS** – modern UI styling
 - **Framer Motion** – for smooth animations
 - **Firebase** – real-time backend (authentication + database)
+
+
+## Security
+
+- ask away does not store any personal data. Its bill to resist surveillance and interference from school network and authorities. You can also self-host this platform using your own Firebase Config (Coming Soon)
